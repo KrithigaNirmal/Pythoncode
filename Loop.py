@@ -1,3 +1,5 @@
+
+# changes
 data = 1
 while data <= 10:
     print(data)
